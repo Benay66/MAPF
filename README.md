@@ -14,6 +14,5 @@
 Julen Benages Díaz  
 Bachelor's Degree in Artificial Intelligence – UPV/EHU  
 GitHub: https://github.com/Benay66  
-Email: julen.benages@gmail.com
+Email: jbenages001@ikasle.ehu.eus
 
-Any suggestions or contributions are welcome.
